@@ -3,6 +3,9 @@
     <img src="https://tva1.sinaimg.cn/large/008eGmZEgy1goctduoafqj31hw03c0t5.jpg"/>
 </a>
 
+
+---
+
 > 工作忙，看书的时间少，如何在有限的时间看有用的书？
 > 技术相关的书籍太多，到底应该看哪些书籍?
 
@@ -11,9 +14,7 @@
 提供了电子版和正版书籍地址，**有经济条件的同学建议还是购买纸质书籍支持作者，毕竟创作不易**
 
 
-> 欢迎留言，把你认为优秀的书单分享给大家
-
-#### 微信公众号
+欢迎公众号留言，把你认为优秀的书单分享给大家
 
 <img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
 
