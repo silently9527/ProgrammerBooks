@@ -21,7 +21,7 @@
 <img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
 
 
-## 书籍持续更新中...
+## 电子书籍持续更新中...
 
 
 
