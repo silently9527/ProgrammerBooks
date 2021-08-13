@@ -1,4 +1,6 @@
 
+# Programmer Books
+
 <a href="https://activity.huaweicloud.com/newyear_promotion/index.html?bpName=08a3013a6b80106f0f4ec018ce22bf60&bindType=1&salesID=hw-wtq01" target="_blank">
     <img src="https://tva1.sinaimg.cn/large/008eGmZEgy1goctduoafqj31hw03c0t5.jpg"/>
 </a>
@@ -20,7 +22,7 @@
 
 欢迎关注公众号给我留言，把你认为优秀的书单分享给大家；公众号也会持续更新Java相关的硬核知识，关注一下肯定会大有所获。
 
-<img width="200" src="https://raw.githubusercontent.com/silently9527/JavaCore/master/imgs/gonzhonghao.png" alt="公众号">
+<img width="200" src="https://tva1.sinaimg.cn/large/008i3skNgy1gtezj6orcdj60gu0gswfr02.jpg" alt="公众号">
 
 
 ## 电子书籍持续更新中...
