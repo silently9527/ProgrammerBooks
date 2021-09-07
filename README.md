@@ -33,6 +33,7 @@
 
 ## 电子书籍持续更新中...
 
+所有电子书的下载地址：[https://silently9527.cn/categories/books](https://silently9527.cn/categories/books)
 
 
 ### 思维
