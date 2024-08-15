@@ -26,8 +26,9 @@
 欢迎关注公众号给我留言，把你认为优秀的书单分享给大家；公众号也会持续更新Java相关的硬核知识，关注一下肯定会大有所获。
 
 
-### 博客地址: [https://herman7z.site](https://herman7z.site)
-### 个人微信: silently9527
+### 博客地址
+[https://herman7z.site](https://herman7z.site)
+
 ### 期待你加入知识星球: [Herman's Notes](https://t.zsxq.com/h2EIR)
 ![](https://raw.githubusercontent.com/silently9527/images/main/202408151725390.png)
 
