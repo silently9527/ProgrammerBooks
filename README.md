@@ -33,9 +33,6 @@
 
 ## 电子书籍持续更新中...
 
-所有电子书的下载地址：[https://silently9527.cn/categories/books](https://silently9527.cn/categories/books)
-
-
 ### 思维
 技术方面的书籍大部分都是在教人具体技能，属于授业；传道解惑方面的书籍相对较少；但是传道可能更重要，所以我把这部分的书籍放在了最前面
 
