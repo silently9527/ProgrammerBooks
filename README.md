@@ -26,10 +26,10 @@
 欢迎关注公众号给我留言，把你认为优秀的书单分享给大家；公众号也会持续更新Java相关的硬核知识，关注一下肯定会大有所获。
 
 
-#### 期待你的加入，公众号：`贝塔学Java`，个人微信号：silently9527
-
-<img src="https://cdn.silently9527.cn/weixhao_gongzonghao_1629032267170.jpg?imageView2/1/w/600/h/350" alt="公众号">
-
+### 博客地址: [https://herman7z.site](https://herman7z.site)
+### 个人微信: silently9527
+### 期待你加入知识星球: [Herman's Notes](https://t.zsxq.com/h2EIR)
+![](https://raw.githubusercontent.com/silently9527/images/main/202408151725390.png)
 
 ## 电子书籍持续更新中...
 
